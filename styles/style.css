@@ -208,8 +208,7 @@ a{
 .home .content{
     max-width: 70rem;
     position: absolute;
-    top: 12rem;
-    vertical-align: middle;
+    top: 30%;
 }
 .home .content h3 {
     font-size: 5rem;
