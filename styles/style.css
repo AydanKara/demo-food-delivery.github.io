@@ -227,7 +227,7 @@ a{
 /* menu start */
 .menu .box-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
     gap: 1.5rem;
 }
 .menu .box-container .box{
